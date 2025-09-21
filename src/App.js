@@ -37,7 +37,17 @@ function Form() {
   );
 }
 
-function PackingList() {}
+function PackingList() {
+  return (
+    <div className="list">
+      <ul>
+        {initialItems.map((i) => (
+          <Item item={i} />
+        ))}
+      </ul>
+    </div>
+  );
+}
 
 function Item() {}
 
