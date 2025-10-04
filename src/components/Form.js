@@ -32,6 +32,7 @@ export default function Form({ onAddItems }) {
       <input
         type="text"
         placeholder="Item..."
+        maxLength={35}
         value={description}
         onChange={(e) => setDescription(e.target.value)}
       ></input>
