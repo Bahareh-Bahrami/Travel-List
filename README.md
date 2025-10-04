@@ -14,6 +14,8 @@ This project was built to practice React fundamentals like state management and 
 - Mark items as packed/unpacked (with strikethrough style)
 - Delete items with a simple button
 - Live statistics: total items, packed items, and completion percentage (with fun messages)
+- Sort items by input order, description, or packed status
+- Clear the entire packing list with one click
 
 ---
 
