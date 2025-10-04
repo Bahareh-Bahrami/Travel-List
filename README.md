@@ -39,4 +39,4 @@ This project was built to practice React fundamentals like state management and 
 
 ---
 
-![ScreenShot](public/ScreenShot.png)
+![ScreenShot](public/Screenshot-.png)
